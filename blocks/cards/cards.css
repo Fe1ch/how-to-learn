@@ -1,0 +1,8 @@
+.cards {
+    min-width: 920px;
+    margin: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    column-gap: 100px;
+}
